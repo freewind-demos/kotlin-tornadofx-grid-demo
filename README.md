@@ -1,6 +1,6 @@
-Kotlin TornadoFx (JavaFx) Demo
-===============================
+Kotlin TornadoFx Grid Demo
+==========================
 
-A simple "Hello world" demo for TornadoFX.
+Use `grid` and `row` to write a login form.
 
 Run `Hello.kt` from your IDE.
